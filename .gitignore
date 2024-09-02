@@ -1,0 +1,22 @@
+.idea
+.gradle
+gradle
+build
+logs
+
+# IntelliJ
+out
+
+# mpeltonen/sbt-idea plugin
+.idea_modules
+
+# Log file
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+### Gradle ###
+# Java heap dump
+*.hprof
